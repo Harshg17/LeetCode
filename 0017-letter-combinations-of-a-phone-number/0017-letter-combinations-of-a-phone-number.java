@@ -1,30 +1,23 @@
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Queue;
-
 class Solution {
+    List<String> res;
+    StringBuilder sb;
+    String[] map = {"", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
     public List<String> letterCombinations(String digits) {
-        LinkedList<String> queue = new LinkedList<>();
-        if (digits == null || digits.length() == 0) {
-            return queue;
-        }
-
-        String[] mapping = {
-                "0", "1", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"
+        res = new ArrayList<>();
+        sb = new StringBuilder();
+        dfs(digits, 0);
+        return res;
+    }
+    private void dfs(String digits, int start) {
+        if (start == digits.length()) {
+            res.add(sb.toString());
+            return;
         };
-
-        queue.add(""); 
-
-        for (int i = 0; i < digits.length(); i++) {
-            int digit = Character.getNumericValue(digits.charAt(i));
-            while (queue.peek().length() == i) {
-                String permutation = queue.remove();
-                for (char c : mapping[digit].toCharArray()) {
-                    queue.add(permutation + c);
-                }
-            }
+        String word = map[digits.charAt(start) - '0'];
+        for(int i = 0; i < word.length(); i++) {
+            sb.append(word.charAt(i));
+            dfs(digits, start + 1);
+            sb.deleteCharAt(sb.length() - 1);
         }
-
-        return queue;
     }
 }
