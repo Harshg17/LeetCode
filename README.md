@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Harshg17/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Harshg17/LeetCode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Harshg17/LeetCode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Harshg17/LeetCode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Harshg17/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Harshg17/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Harshg17/LeetCode/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/Harshg17/LeetCode/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
