@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Harshg17/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Harshg17/LeetCode/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Harshg17/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Harshg17/LeetCode/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Harshg17/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harshg17/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/Harshg17/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Harshg17/LeetCode/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -63,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harshg17/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Harshg17/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Harshg17/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
