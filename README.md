@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Harshg17/LeetCode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Harshg17/LeetCode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Harshg17/LeetCode/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/Harshg17/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Harshg17/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Harshg17/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshg17/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshg17/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Harshg17/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harshg17/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Harshg17/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Harshg17/LeetCode/tree/master/0141-linked-list-cycle) |
 ## Linked List
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshg17/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Harshg17/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harshg17/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Harshg17/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Harshg17/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Harshg17/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Harshg17/LeetCode/tree/master/0125-valid-palindrome) |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Harshg17/LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Harshg17/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Harshg17/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Greedy
 |  |
