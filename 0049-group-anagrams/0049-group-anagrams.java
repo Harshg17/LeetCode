@@ -2,13 +2,8 @@ import java.util.*;
 
 class Solution {
 
-    static {
-        var s = new Solution();
-        String[] strs = new String[]{"eat","tea","tan","ate","nat","bat"};
-        for (int i = 0; i < 1000; i++) {
-            s.groupAnagrams(strs);
-        }
-    }
+     
+    
     public List<List<String>> groupAnagrams(String[] strs) {
         if (strs == null || strs.length == 0) return new ArrayList<>();
         Map<String, List<String>> map = new HashMap<>();
