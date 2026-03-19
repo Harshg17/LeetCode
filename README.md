@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harshg17/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Harshg17/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Harshg17/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0242-valid-anagram](https://github.com/Harshg17/LeetCode/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Harshg17/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Harshg17/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Harshg17/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Harshg17/LeetCode/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Harshg17/LeetCode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Harshg17/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Harshg17/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Harshg17/LeetCode/tree/master/0242-valid-anagram) |
 ## Greedy
 |  |
 | ------- |
