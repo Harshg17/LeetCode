@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Harshg17/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Harshg17/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshg17/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Harshg17/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Harshg17/LeetCode/tree/master/0136-single-number) |
 ## Hash Table
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Harshg17/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Harshg17/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Harshg17/LeetCode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Harshg17/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Harshg17/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Harshg17/LeetCode/tree/master/0242-valid-anagram) |
 ## Linked List
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshg17/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Harshg17/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
