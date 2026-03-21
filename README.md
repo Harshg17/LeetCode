@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Harshg17/LeetCode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Harshg17/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Harshg17/LeetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Harshg17/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Harshg17/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Harshg17/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshg17/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Harshg17/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshg17/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Harshg17/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Harshg17/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
