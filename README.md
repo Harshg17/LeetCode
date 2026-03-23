@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshg17/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/Harshg17/LeetCode/tree/master/0155-min-stack) |
 ## Tree
 |  |
 | ------- |
@@ -144,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Harshg17/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Harshg17/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
