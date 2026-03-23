@@ -2,7 +2,7 @@ class Solution {
 
     static {
         for (int i = 0; i < 500; i++) {
-            maxArea(new int[]{0, 0}); // JIT warm-up
+            maxArea(new int[]{0, 0});
         }
     }
 
