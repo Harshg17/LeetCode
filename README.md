@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshg17/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Harshg17/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Harshg17/LeetCode/tree/master/0136-single-number) |
+| [0739-daily-temperatures](https://github.com/Harshg17/LeetCode/tree/master/0739-daily-temperatures) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Harshg17/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Hash Table
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshg17/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Harshg17/LeetCode/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/Harshg17/LeetCode/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
 | ------- |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Harshg17/LeetCode/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Harshg17/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
