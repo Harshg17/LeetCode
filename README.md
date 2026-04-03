@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshg17/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Harshg17/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Harshg17/LeetCode/tree/master/0136-single-number) |
+| [0219-contains-duplicate-ii](https://github.com/Harshg17/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0739-daily-temperatures](https://github.com/Harshg17/LeetCode/tree/master/0739-daily-temperatures) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Harshg17/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Harshg17/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Harshg17/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Harshg17/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/Harshg17/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/Harshg17/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Harshg17/LeetCode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harshg17/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Linked List
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshg17/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Harshg17/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harshg17/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Two Pointers
 |  |
