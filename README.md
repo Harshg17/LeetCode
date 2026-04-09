@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshg17/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Harshg17/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Harshg17/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Harshg17/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Harshg17/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0739-daily-temperatures](https://github.com/Harshg17/LeetCode/tree/master/0739-daily-temperatures) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Harshg17/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Harshg17/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Harshg17/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Harshg17/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Harshg17/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Harshg17/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Harshg17/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Harshg17/LeetCode/tree/master/0242-valid-anagram) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Harshg17/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Harshg17/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Harshg17/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Harshg17/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Harshg17/LeetCode/tree/master/0242-valid-anagram) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Harshg17/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Greedy
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Harshg17/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Harshg17/LeetCode/tree/master/0169-majority-element) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Harshg17/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Matrix
 |  |
@@ -189,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Harshg17/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Harshg17/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
