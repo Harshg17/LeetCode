@@ -2,8 +2,9 @@ class Solution {
     public List<String> summaryRanges(int[] nums) {
         List<String> result = new ArrayList<>();
         int n = nums.length;
+        int i = 0;
 
-        for (int i = 0; i < n; i++) {
+        while (i < n) {
             int start = nums[i];
 
             while (i + 1 < n && nums[i + 1] == nums[i] + 1) {
@@ -15,6 +16,8 @@ class Solution {
             } else {
                 result.add(start + "->" + nums[i]);
             }
+
+            i++; 
         }
 
         return result;
