@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Harshg17/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Harshg17/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Harshg17/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/Harshg17/LeetCode/tree/master/0228-summary-ranges) |
 | [0739-daily-temperatures](https://github.com/Harshg17/LeetCode/tree/master/0739-daily-temperatures) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Harshg17/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Harshg17/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
