@@ -67,12 +67,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Harshg17/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Harshg17/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Harshg17/LeetCode/tree/master/0069-sqrtx) |
+| [0342-power-of-four](https://github.com/Harshg17/LeetCode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harshg17/LeetCode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Harshg17/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Harshg17/LeetCode/tree/master/0050-powx-n) |
+| [0342-power-of-four](https://github.com/Harshg17/LeetCode/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Harshg17/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Harshg17/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Harshg17/LeetCode/tree/master/0136-single-number) |
+| [0342-power-of-four](https://github.com/Harshg17/LeetCode/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
 | ------- |
