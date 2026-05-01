@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Harshg17/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Harshg17/LeetCode/tree/master/0069-sqrtx) |
 | [0342-power-of-four](https://github.com/Harshg17/LeetCode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Harshg17/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Recursion
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshg17/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Harshg17/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Harshg17/LeetCode/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/Harshg17/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Backtracking
 |  |
 | ------- |
