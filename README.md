@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Harshg17/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Harshg17/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Harshg17/LeetCode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Harshg17/LeetCode/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/Harshg17/LeetCode/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Harshg17/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Harshg17/LeetCode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Harshg17/LeetCode/tree/master/0190-reverse-bits) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Harshg17/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Matrix
 |  |
