@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Harshg17/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Harshg17/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Harshg17/LeetCode/tree/master/0228-summary-ranges) |
+| [0486-predict-the-winner](https://github.com/Harshg17/LeetCode/tree/master/0486-predict-the-winner) |
 | [0739-daily-temperatures](https://github.com/Harshg17/LeetCode/tree/master/0739-daily-temperatures) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Harshg17/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Harshg17/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Harshg17/LeetCode/tree/master/0069-sqrtx) |
 | [0342-power-of-four](https://github.com/Harshg17/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Harshg17/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0486-predict-the-winner](https://github.com/Harshg17/LeetCode/tree/master/0486-predict-the-winner) |
 ## Recursion
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Harshg17/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Harshg17/LeetCode/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/Harshg17/LeetCode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/Harshg17/LeetCode/tree/master/0486-predict-the-winner) |
 ## String
 |  |
 | ------- |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Harshg17/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Harshg17/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshg17/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/Harshg17/LeetCode/tree/master/0486-predict-the-winner) |
 ## Stack
 |  |
 | ------- |
@@ -218,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/Harshg17/LeetCode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Harshg17/LeetCode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/Harshg17/LeetCode/tree/master/0177-nth-highest-salary) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Harshg17/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
