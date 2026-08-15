@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Harshg17/LeetCode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harshg17/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/Harshg17/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [1768-merge-strings-alternately](https://github.com/Harshg17/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Harshg17/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Sliding Window
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Harshg17/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Harshg17/LeetCode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/Harshg17/LeetCode/tree/master/0392-is-subsequence) |
+| [1768-merge-strings-alternately](https://github.com/Harshg17/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
